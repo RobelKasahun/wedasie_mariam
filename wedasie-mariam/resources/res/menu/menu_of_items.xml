@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <group android:checkableBehavior="single">
+        <item android:icon="@drawable/ic_games_black_24dp" android:id="@+id/tselot_zezewter" android:checked="true" android:title="@string/tselot_zezewter_name"/>
+        <item android:icon="@drawable/ic_games_black_24dp" android:id="@+id/the_monday" android:title="@string/the_monday_name"/>
+        <item android:icon="@drawable/ic_games_black_24dp" android:id="@+id/the_tuesday" android:title="@string/the_tuesday_name"/>
+        <item android:icon="@drawable/ic_games_black_24dp" android:id="@+id/the_wednesday" android:title="@string/the_wednesday_name"/>
+        <item android:icon="@drawable/ic_games_black_24dp" android:id="@+id/the_thursday" android:title="@string/the_thursday_name"/>
+        <item android:icon="@drawable/ic_games_black_24dp" android:id="@+id/the_friday" android:title="@string/the_friday_name"/>
+        <item android:icon="@drawable/ic_games_black_24dp" android:id="@+id/the_saturday" android:title="@string/the_saturday_name"/>
+        <item android:icon="@drawable/ic_games_black_24dp" android:id="@+id/the_sunday" android:title="@string/the_sunday_name"/>
+        <item android:icon="@drawable/ic_games_black_24dp" android:id="@+id/anketse_berhan" android:title="@string/anketse_berhan_name"/>
+        <item android:icon="@drawable/ic_games_black_24dp" android:id="@+id/yewedeswa_melakt" android:title="@string/yewedsewa_melaket_name"/>
+        <item android:icon="@drawable/ic_games_black_24dp" android:id="@+id/melkea_mariam" android:title="@string/melkea_mariam_name"/>
+        <item android:icon="@drawable/ic_games_black_24dp" android:id="@+id/melkea_eyesus" android:title="@string/melkea_eyesus_name"/>
+    </group>
+</menu>
